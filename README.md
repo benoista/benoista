@@ -1,8 +1,3 @@
-<div align="center">
-<img src="https://benoista.github.io/img/pp.jpeg" align="center" style="width: 30%" />
-</div>  
-  
-
 ### <div align="center">I'm Alexandre, a Full Stack developer 👨‍💻 studying at EPITECH Nantes at Pré-MSC🚀. </div>  
   
 
